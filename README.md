@@ -5,9 +5,9 @@ This repository provides an exploration of the analysis on the paper ["Human Per
 
 ### Analysis
 By running 
-1. demo_presentation_part1_analysis.ipynb , you will find an analysis primarily focused on describing the problem that the assigned paper addresses which is mentioned in the [report/Team4-Fairness in BDM part-1.pdf](https://github.com/nursatkakon/fairness_BDM/blob/master/report/Team4-Fairness%20in%20BDM%20%5Bpart-1%5D.pdf). 
+1. demo_presentation_part1_analysis.ipynb , you will find an analysis primarily focused on describing the problem that the assigned paper addresses which is mentioned in the [Fairness in BDM part-1.pdf](https://github.com/nursatkakon/fairness_BDM/blob/master/report/Team4-Fairness%20in%20BDM%20%5Bpart-1%5D.pdf) presentation. 
 
-2. demo_presentation_part2_analysis.ipynb , you can see some applied algorithms, and significant experimental results as a review which is presented in the [report/Team4-Fairness in BDM part-2.pdf](https://github.com/nursatkakon/fairness_BDM/blob/master/report/Team4-Fairness%20in%20BDM%20%5Bpart-2%5D.pdf).
+2. demo_presentation_part2_analysis.ipynb , you can see some applied algorithms, and significant experimental results as a review which is presented in the [Fairness in BDM part-2.pdf](https://github.com/nursatkakon/fairness_BDM/blob/master/report/Team4-Fairness%20in%20BDM%20%5Bpart-2%5D.pdf) presentation.
 
 3. demo_project_report_analysis.ipynb , you will find some futher analysis on the NSE (Normalized Shanin Entropy) in societal concensus with the Gini index as an inequality measurement in terms of fairness in the decision making scenario. 
 
